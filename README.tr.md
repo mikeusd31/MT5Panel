@@ -2,7 +2,7 @@
 
 [English](README.md) | **Türkçe**
 
-MetaTrader 5 için taşınabilir (portable) bir işlem paneli: tek tıkla alış/satış, grafik analiz araçları, SL yöneticisi, hedge modülü ve yapay zeka asistanı. Kullanıcı klasörüne kurulur, yönetici izni gerekmez.
+MetaTrader 5 için taşınabilir bir işlem paneli: tek tıkla alış/satış, grafik analiz araçları, SL yöneticisi, hedge modülü ve yapay zeka asistanı. Kullanıcı klasörüne kurulur, yönetici izni gerekmez.
 
 *A portable MetaTrader 5 trading panel for Windows: one-click trading, charting tools, SL manager, hedge module and an AI assistant. (Turkish and English UI.)*
 
