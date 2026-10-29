@@ -8,7 +8,7 @@ A trading panel for MetaTrader 5 on Windows: one-click trading, charting tools, 
 
 ## Download
 
-**[➡ Download the latest release](https://github.com/YOUR_USERNAME/MT5Panel/releases/latest)**
+**[➡ Download the latest release](https://github.com/mikeusd31/MT5Panel/releases/latest)**
 
 | File | What it is |
 |---|---|
