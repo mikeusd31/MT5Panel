@@ -2,7 +2,7 @@
 
 **English** | [Türkçe](README.tr.md)
 
-A portable trading panel for MetaTrader 5 on Windows: one-click trading, charting tools, an SL manager, a hedge module and an AI assistant. It runs from its own folder, no installation required (an installer is also provided). The interface is available in English and Turkish.
+A portable trading panel for MetaTrader 5 on Windows: one-click trading, charting tools, an SL manager, a hedge module and an AI assistant. It installs into your user folder and needs no administrator rights. The interface is available in English and Turkish.
 
 > ⚠️ **Risk warning:** Trading Forex and CFDs carries a high level of risk and you can lose all of your capital. This software does not provide investment advice and does not guarantee profits. **Try it on a demo account first.** The software is provided "as is" and the developer is not liable for any losses resulting from its use.
 
@@ -13,7 +13,6 @@ A portable trading panel for MetaTrader 5 on Windows: one-click trading, chartin
 | File | What it is |
 |---|---|
 | `MT5Panel-Setup-x.y.z.exe` | Installer (installs into your user folder, no administrator rights needed) |
-| `MT5Panel-portable-x.y.z.zip` | Portable version: unzip into any folder and run `MT5Panel.exe` |
 
 **Verify your download.** Every release page lists the SHA256 hash of each file. On Windows, run:
 
