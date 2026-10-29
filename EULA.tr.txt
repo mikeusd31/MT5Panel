@@ -1,0 +1,38 @@
+MT5 PANEL - KULLANIM KOSULLARI (TASLAK)
+=======================================
+NOT: Bu, EULA.txt (Ingilizce) metninin kolaylik amacli cevirisidir; ihtilaf halinde Ingilizce metin gecerlidir.
+NOT: Bu metin bir taslaktir, hukuki danismanlik degildir. Yayinlamadan once bir avukata
+gosterip ulkenize/isinize gore duzenletmeniz onerilir.
+
+1. Lisans verilmesi
+   MT5 Panel ("Yazilim") size kisisel, devredilemez, munhasir olmayan bir kullanim hakki verir.
+   Temel ozellikler ucretsizdir. Lisansli ozellikler yalnizca gecerli bir lisans dosyasi ile acilir.
+
+2. Yasaklar
+   Yazilimi tersine muhendislikle cozmeye, lisans kontrolunu devre disi birakmaya, lisans
+   dosyasini paylasmaya/satmaya, Yazilimi izinsiz yeniden dagitmaya veya satmaya calismayacaksiniz.
+
+3. Risk uyarisi
+   Forex ve CFD islemleri yuksek risk tasir ve tum sermayenin kaybina yol acabilir.
+   Yazilim yatirim tavsiyesi vermez, kar garantisi sunmaz. Yazilimin urettigi seviyeler, alarmlar,
+   yapay zeka yorumlari ve otomatik islemler (or. hedge modulu) bilgilendirme/yardim amaclidir.
+   Tum islem kararlari ve sonuclari size aittir. Once demo hesapta deneyiniz.
+
+4. Garanti yok / sorumluluk siniri
+   Yazilim "OLDUGU GIBI" sunulur. Kesintisiz veya hatasiz calisacagi garanti edilmez.
+   Gelistirici, Yazilimin kullanimindan veya kullanilamamasindan dogan dogrudan veya dolayli
+   hicbir zarardan (islem kayiplari, kacirilan kar, veri kaybi dahil) yasalarin izin verdigi olcude sorumlu degildir.
+
+5. Ucuncu taraf yazilimlar
+   Paket, ucuncu tarafa ait bilesenler icerebilir (ornegin Python, MetaTrader 5 terminali).
+   Bunlar kendi lisans sartlarina tabidir. MetaTrader 5 MetaQuotes Ltd. markasidir; bu proje
+   MetaQuotes veya herhangi bir broker ile iliskili degildir.
+
+6. Gizlilik
+   Hesap bilgileri bilgisayarinizda saklanir ve gelistiriciye gonderilmez. Yapay zeka ozelligi
+   kullanildiginda grafik verisi sectiginiz saglayiciya gonderilir.
+
+7. Fesih
+   Bu kosullarin ihlali halinde kullanim hakkiniz sona erer ve lisans dosyaniz gecersiz sayilir.
+
+8. Iletisim: İLETİŞİM_BİLGİSİ

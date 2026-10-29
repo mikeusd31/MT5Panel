@@ -1,0 +1,43 @@
+MT5 PANEL - END USER LICENSE AGREEMENT (DRAFT)
+==============================================
+NOTE: This text is a draft and is not legal advice. Have it reviewed by a lawyer and adapted
+to your country and business before publishing. A Turkish convenience translation is in
+EULA.tr.txt; in case of a conflict, this English text prevails.
+
+1. Grant of license
+   MT5 Panel (the "Software") is licensed to you, not sold. You receive a personal,
+   non-transferable, non-exclusive right to use it. The base features are free of charge.
+   Licensed features are enabled only by a valid license file issued to you.
+
+2. Restrictions
+   You will not reverse engineer, decompile or disassemble the Software, bypass or disable its
+   license checks, share, sell or publish license files, or redistribute or resell the Software
+   without written permission.
+
+3. Risk warning
+   Trading Forex and CFDs carries a high level of risk and may result in the loss of all of your
+   capital. The Software does not provide investment advice and does not guarantee profits.
+   Levels, alarms, AI comments and automated actions (for example the hedge module) are
+   provided for information and convenience only. All trading decisions and their results are
+   your own responsibility. Test on a demo account first.
+
+4. No warranty / limitation of liability
+   The Software is provided "AS IS" without warranty of any kind. It is not guaranteed to be
+   uninterrupted or error-free. To the maximum extent permitted by law, the developer is not
+   liable for any direct or indirect damages arising from the use or inability to use the
+   Software, including trading losses, lost profits or data loss.
+
+5. Third-party software
+   The package may include third-party components (for example Python and the MetaTrader 5
+   terminal), which are subject to their own license terms. MetaTrader 5 is a trademark of
+   MetaQuotes Ltd. This project is not affiliated with MetaQuotes or any broker.
+
+6. Privacy
+   Account details are stored on your computer and are not sent to the developer. When you use
+   the AI feature, chart data is sent to the provider you select.
+
+7. Termination
+   Your right to use the Software ends if you breach these terms, and your license file may be
+   treated as invalid.
+
+8. Contact: CONTACT_INFO
