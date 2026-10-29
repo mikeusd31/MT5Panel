@@ -10,7 +10,7 @@ MetaTrader 5 için taşınabilir bir işlem paneli: tek tıkla alış/satış, g
 
 ## İndirme
 
-**[➡ Son sürümü indir (Releases)](https://github.com/KULLANICI_ADI/MT5Panel/releases/latest)**
+**[➡ Son sürümü indir (Releases)](https://github.com/mikeusd31/MT5Panel/releases/latest)**
 
 | Dosya | Ne için |
 |---|---|
