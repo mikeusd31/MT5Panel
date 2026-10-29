@@ -40,4 +40,4 @@ EULA.tr.txt; in case of a conflict, this English text prevails.
    Your right to use the Software ends if you breach these terms, and your license file may be
    treated as invalid.
 
-8. Contact: CONTACT_INFO
+8. Contact: mikeeur31@gmail.com
