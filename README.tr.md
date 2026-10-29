@@ -2,7 +2,7 @@
 
 [English](README.md) | **Türkçe**
 
-MetaTrader 5 için taşınabilir (portable) bir işlem paneli: tek tıkla alış/satış, grafik analiz araçları, SL yöneticisi, hedge modülü ve yapay zeka asistanı. Kurulum gerektirmeden kendi klasöründe çalışır.
+MetaTrader 5 için taşınabilir (portable) bir işlem paneli: tek tıkla alış/satış, grafik analiz araçları, SL yöneticisi, hedge modülü ve yapay zeka asistanı. Kullanıcı klasörüne kurulur, yönetici izni gerekmez.
 
 *A portable MetaTrader 5 trading panel for Windows: one-click trading, charting tools, SL manager, hedge module and an AI assistant. (Turkish and English UI.)*
 
@@ -15,7 +15,6 @@ MetaTrader 5 için taşınabilir (portable) bir işlem paneli: tek tıkla alış
 | Dosya | Ne için |
 |---|---|
 | `MT5Panel-Setup-x.y.z.exe` | Kurulum programı (kullanıcı klasörüne kurar, yönetici izni gerekmez) |
-| `MT5Panel-portable-x.y.z.zip` | Taşınabilir sürüm: zip'i bir klasöre açıp `MT5Panel.exe` çalıştırın |
 
 **İndirdiğiniz dosyayı doğrulayın:** Release sayfasında her dosyanın SHA256 değeri yazar. Windows'ta:
 
