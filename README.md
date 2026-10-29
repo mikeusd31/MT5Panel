@@ -58,7 +58,7 @@ The output must match the value on the release page exactly.
 ## How to get a license
 
 1. In the program, click the **License** button and copy your **computer ID**.
-2. Send it to me: `CONTACT_INFO`
+2. Send it to me: `mikeeur31@gmail.com`
 3. I will send you a `license.lic` file. Put it in the program folder, or choose it with **License → Load license file...**
 
 Do not share your license file; it may be bound to your computer and/or your account. Without a license the program keeps working with the base features.
