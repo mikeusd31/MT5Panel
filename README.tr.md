@@ -60,7 +60,7 @@ certutil -hashfile MT5Panel-Setup-x.y.z.exe SHA256
 ## Lisans nasıl alınır?
 
 1. Programda **Lisans** düğmesine basın ve **bilgisayar kimliğinizi** (ID) kopyalayın.
-2. Bana iletin: `İLETİŞİM_BİLGİSİ`
+2. Bana iletin: `mikeeur31@gmail.com`
 3. Size bir `license.lic` dosyası göndereceğim. Dosyayı program klasörüne koyun ya da **Lisans → Lisans dosyası yükle** ile seçin.
 
 Lisans dosyasını başkalarıyla paylaşmayın; bilgisayarınıza ve/veya hesabınıza bağlı olabilir. Lisans olmadan program temel özelliklerle çalışmaya devam eder.
