@@ -64,7 +64,7 @@ Do not share your license file; it may be bound to your computer and/or your acc
 
 ## Reporting problems
 
-Open an issue in the [Issues](https://github.com/YOUR_USERNAME/MT5Panel/issues) section. **Before posting**, remove or blur your account number, balance and any password from screenshots and logs.
+Open an issue in the [Issues](https://github.com/mikeusd31/MT5Panel/issues) section. **Before posting**, remove or blur your account number, balance and any password from screenshots and logs.
 
 ## Privacy
 
