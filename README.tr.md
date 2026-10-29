@@ -66,7 +66,7 @@ Lisans dosyasını başkalarıyla paylaşmayın; bilgisayarınıza ve/veya hesab
 
 ## Sorun bildirme
 
-[Issues](https://github.com/KULLANICI_ADI/MT5Panel/issues) bölümünden açın. **Paylaşmadan önce** ekran görüntülerinde ve günlüklerde hesap numaranızı, bakiyenizi ve şifrenizi silin/karartın.
+[Issues](https://github.com/mikeusd31/MT5Panel/issues) bölümünden açın. **Paylaşmadan önce** ekran görüntülerinde ve günlüklerde hesap numaranızı, bakiyenizi ve şifrenizi silin/karartın.
 
 ## Gizlilik
 
